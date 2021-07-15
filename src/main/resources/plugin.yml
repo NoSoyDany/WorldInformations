@@ -1,0 +1,8 @@
+name: WorldInformations
+version: ${project.version}
+main: me.nosoydany.worldinformations.WorldInformations
+authors: [ NoSoyDany ]
+commands:
+  worldinfo:
+  icanhasworldinfo:
+  worldinf:

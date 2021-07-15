@@ -1,0 +1,8 @@
+name: WorldInformations
+version: 1.0-SNAPSHOT
+main: me.nosoydany.worldinformations.WorldInformations
+authors: [ NoSoyDany ]
+commands:
+  worldinfo:
+  icanhasworldinfo:
+  worldinf:
